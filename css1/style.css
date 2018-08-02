@@ -23,5 +23,17 @@
   height: 100px;
   width: 130px;
   float: left;
-  
+
+}
+
+.pic2 {
+  height: 120px;
+  width: 90;
+  float: right;
+}
+
+.caption {
+  padding: 0.25em 0;
+  float: right;
+  text-align: right;
 }
